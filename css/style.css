@@ -38,14 +38,51 @@ main {
     padding: 50px;
 }
 
-#isola-centrale {
+#parte1 {
     background-color: rgb(255, 255, 255);
-    height: 1800px;
+    height: 75px;
     width: 1200px;
     margin: 0 auto;
+    padding: 30px 0px 10px 50px;
     border-radius: 10px 10px 0px 0px;
+    border-bottom-color: rgb(235, 235, 235);
+
+}
 
 
+#parte2 {
+    width: 1200px;
+    height: 1800px;
+    background-color: rgb(255, 255, 255);
+    padding: 25px 0px 0px 25px;
+    margin: auto;
+    margin-top: 3px;
 
+}
+
+/* FINE PREPARAZIONE BACKGROUD */
+#button1 {
+    background-color: rgb(49, 128, 247);
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    border-color: rgb(49, 128, 247);
+    color: white;
+    font-weight: 700;
+
+}
+
+#button2 {
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    border-color: rgb(180, 181, 182);
+    background-color: white;
+    color: rgb(180, 181, 182);
+    font-weight: 700;
+}
+
+hr {
+    width: 1200px;
 
 }
