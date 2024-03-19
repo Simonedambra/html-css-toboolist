@@ -5,6 +5,7 @@
 
 }
 
+/* TITOLO E LOGO*/
 header {
     background-size: 80px;
     padding: 10px 0px 10px 25px;
@@ -19,11 +20,6 @@ header {
     width: 100px;
     display: inline-block;
     vertical-align: middle;
-
-
-
-
-
 }
 
 #text-logo {
@@ -31,4 +27,25 @@ header {
     vertical-align: middle;
     font-family: "public sans";
     font-weight: 900;
+}
+
+/* FINE TITOLO E LOGO */
+/* PREPARAZIONE DI BACKGROUND */
+main {
+    background-color: rgb(235, 235, 235);
+    height: 1900px;
+    width: 1700px;
+    padding: 50px;
+}
+
+#isola-centrale {
+    background-color: rgb(255, 255, 255);
+    height: 1800px;
+    width: 1200px;
+    margin: 0 auto;
+    border-radius: 10px 10px 0px 0px;
+
+
+
+
 }
