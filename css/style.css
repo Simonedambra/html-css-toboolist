@@ -54,13 +54,14 @@ main {
     width: 1200px;
     height: 1800px;
     background-color: rgb(255, 255, 255);
-    padding: 25px 0px 0px 25px;
+    padding: 35px 0px 0px 50px;
     margin: auto;
     margin-top: 3px;
 
 }
 
 /* FINE PREPARAZIONE BACKGROUD */
+/* BUTTON */
 #button1 {
     background-color: rgb(49, 128, 247);
     padding: 10px;
@@ -82,7 +83,21 @@ main {
     font-weight: 700;
 }
 
-hr {
-    width: 1200px;
+/* FINE BUTTON */
+/* INIZIO LISTA */
+.lista {
+    list-style-type: none;
+    margin: 10px 0px 10px 0px;
+    display: block;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: "public sans";
 
+}
+
+.freccia {
+    vertical-align: middle;
+    display: inline-block;
+    height: 30px;
+    font-size: 50px;
 }
