@@ -101,3 +101,9 @@ main {
     height: 30px;
     font-size: 50px;
 }
+
+svg {
+    width: 20px;
+    display: block;
+
+}
